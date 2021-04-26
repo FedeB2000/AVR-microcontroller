@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @FedeB2000
-- 👀 I’m interested in programming language
-- 🌱 I’m currently learning C#,C++ and Assembly
-- 💞️ I’m looking to collaborate with people
-- 📫 How to reach me on email fedebelli002@gmail.com
